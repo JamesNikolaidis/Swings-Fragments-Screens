@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8641e8ca0ff413087f1bf50f70568492319f511d">
+        <dex dex="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9682cb02f416e46cec4883dbb06a3000b03ae56d.jar" />
+    </item>
+    <item
+        jar="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_54fefb3f42f12ecb1e8a5cf7eee3719491b5b6b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_effa4ea17d717f169831b3457503ec5a52f38ebf.jar" />
+    </item>
+    <item
+        jar="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_bb0ce674d9419ddde2fefa4b1721014374d83072.jar" />
+    </item>
+    <item
+        jar="C:\Users\James Nikolaidis\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_d5f8e8dd3bf4516509f060a7312a5fb6ae60cc76.jar" />
+    </item>
+    <item
+        jar="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6083b0801dce98140c1a751bf14e7200fcc1e2e6">
+        <dex dex="C:\Users\James Nikolaidis\AndroidStudioProjects\PageSwingTest\app\build\intermediates\pre-dexed\debug\instant-run_7e82f13552dc891128c227ab1595c38f302f2c54.jar" />
+    </item>
+
+</items>
